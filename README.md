@@ -2,6 +2,10 @@
 
 for now only mods
 
+> you can download the modrinth pack and play via their launcher
+> 
+> or download the zip file [HERE](https://drive.google.com/file/d/1Xg_p3ZuIv0qIy72iOP1HMRlQ9LUocgrV/view?usp=sharing) to play with your launcher of choice.
+
 
 # Tweaks added
 
