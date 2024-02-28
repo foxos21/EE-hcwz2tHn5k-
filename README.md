@@ -10,6 +10,12 @@ for now only mods
 > minecraft version 1.20.1
 > fabric version 0.15.6
 
+> [!CAUTION]
+> Foxomania is now again only vanilla with datapacks!
+
+> [!TIP]
+> I recommend to read the **_Tweaks added_**, _**craftable items**_ and _**Datapacks**_.
+
 
 # Tweaks added
 
@@ -36,7 +42,47 @@ for now only mods
 
 - craftable bundles
 
-# Mods usage
+# Datapacks!
+
+## Survival
+
+- Armor Statues edit [video](https://www.youtube.com/watch?v=nV9-_RacnoI)
+- Fast Leaf Decay
+- AFK display
+- Multyplayer sleep
+- Graves
+- Custom nether portals
+- Tools Durability ping
+- Cauldron concrete
+
+## Items
+
+- Redstone Rotation Wrench [video](https://youtu.be/AFu4n_Ql1_o?t=70)
+- Terracotta Rotation Wrench [video](https://youtu.be/lfcwKXhjC9Y?t=508)
+- Armored Elytra [video](https://youtu.be/UCUivDpVDhE)
+- Player Head Drops [video](https://www.youtube.com/watch?v=Usb1mEIK_wQ)
+
+## Mobs
+
+- Double Shulker Shells [video](https://youtu.be/lfcwKXhjC9Y?t=319)
+- Dragon Drops [video](https://youtu.be/lfcwKXhjC9Y?t=359)
+- More Mob Heads [video](https://www.youtube.com/watch?v=C04fwclOdQo)
+- silence mobs [video](https://youtu.be/lfcwKXhjC9Y?t=487)
+
+## Teleportation
+
+- Teleport to spawn ```/trigger spawn```
+
+## Experimental
+
+- Timber ```Instant wood chop```
+- XP Management ```Right-Click an enchating table to deposit some of your XP to a empty bottle```
+- Chunk Loader ```Drop a nether star above a lodestone```
+- Confetti creepers ```chance for a creeper to be a firework```
+- Elevator ```Drop an ender pearl above a wool block to make it into an elevator. Jump on it to warp onto an elevator of the same color directly above. Crouch on it to warp onto one directly below.```
+
+
+# not working Mods usage
 
 ## Carry on
 
