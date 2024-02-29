@@ -81,6 +81,21 @@ for now only mods
 - Confetti creepers ```chance for a creeper to be a firework```
 - Elevator ```Drop an ender pearl above a wool block to make it into an elevator. Jump on it to warp onto an elevator of the same color directly above. Crouch on it to warp onto one directly below.```
 
+# Server Plugins
+
+- Vault
+- EssentialsX [howto](https://essinfo.xeya.me/commands.html)
+- LoginSecurity
+
+```
+LoginSecurity Commands:
+
+/lac - Admin command, rmpass and reload
+/register <password> - Set your password
+/login <password> - Login with your password
+/changepass <old> <new> - change your password
+```
+
 
 # not working Mods usage
 
