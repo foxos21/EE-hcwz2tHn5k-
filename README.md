@@ -54,6 +54,7 @@ for now only mods
 - Custom nether portals
 - Tools Durability ping
 - Cauldron concrete
+- Shulker Chests ```When a chest is broken with silktouch the chest will contain the items in it!```
 
 ## Items
 
