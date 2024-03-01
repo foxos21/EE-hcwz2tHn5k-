@@ -82,11 +82,9 @@ for now only mods
 - Elevator ```Drop an ender pearl above a wool block to make it into an elevator. Jump on it to warp onto an elevator of the same color directly above. Crouch on it to warp onto one directly below.```
 
 ## Other
-- New Pillagers [link](https://www.planetminecraft.com/data-pack/new-pillagers-better-structures/)
 - Banner Flags [link](https://www.planetminecraft.com/data-pack/banner-flags-5591137/)
 - Waystones [link](https://modrinth.com/datapack/waystones-data-pack)
 - Healing Bed [link](https://www.planetminecraft.com/data-pack/healing-bed-4479170/)
-- Terralith [link](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/)
 - Geophilic [link](https://modrinth.com/datapack/geophilic/gallery)
 - Vanilla Refreshed [link](https://modrinth.com/datapack/vanilla-refresh/gallery)
 - Seasons [link](https://modrinth.com/datapack/seasons)
