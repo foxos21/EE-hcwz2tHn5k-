@@ -85,8 +85,8 @@ for now only mods
 
 - Vault
 - EssentialsX [howto](https://essinfo.xeya.me/commands.html)
+- MyPet [info](https://www.spigotmc.org/resources/mypet.12725/)
 - LoginSecurity
-
 ```
 LoginSecurity Commands:
 
