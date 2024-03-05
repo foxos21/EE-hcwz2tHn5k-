@@ -42,7 +42,7 @@ for now only mods
 
 - craftable bundles
 
-- shrek toilet [crafting]()
+- shrek toilet [crafting](https://github.com/foxos21/EE-hcwz2tHn5k-/blob/main/Screen%20Shot%202024-03-06%20at%2012.13.10%20AM.png?raw=true)
 
 # Datapacks!
 
