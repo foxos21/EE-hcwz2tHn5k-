@@ -42,6 +42,8 @@ for now only mods
 
 - craftable bundles
 
+- shrek toilet [crafting]()
+
 # Datapacks!
 
 ## Survival
