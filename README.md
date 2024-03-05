@@ -55,6 +55,8 @@ for now only mods
 - Tools Durability ping
 - Cauldron concrete
 - Shulker Chests ```When a chest is broken with silktouch the chest will contain the items in it!```
+- MultiTool ```When combined a axe, pickaxe, hoe and shovel in a crafting table. you get a MltiTool that changes for the needen purpose```
+- RottenToFlesh [info](https://www.curseforge.com/minecraft/customization/rottentoleather)
 
 ## Items
 
